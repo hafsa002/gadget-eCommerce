@@ -1,0 +1,105 @@
+.img{
+	height: 40px;
+}
+
+h1{
+
+	margin-bottom: 30px;
+}
+h4{
+	color: orange;
+	margin-left: 30px;
+}
+h4:hover{
+	color: white;
+}
+.col-md-5{
+	background-image: url("img/bg-2.png");
+	background-repeat: no-repeat;
+}
+.col-md-7{
+	background-image: url("img/bg-1.png");
+	background-repeat: no-repeat;
+}
+
+.button{
+	background: linear-gradient(60deg, tomato, orange);
+	color: white;
+	padding: 5px 10px;
+	margin-top: 15px;
+	font-size: 15px;
+	border: none;
+	border-radius: 5px;
+	box-shadow: .1rem .1rem .5px gray;
+	width: 100px;
+}
+
+.card-height{
+	height: 180px;
+
+}
+
+.categories{
+	margin-top: 40px;
+
+
+}
+
+
+.categories h1{
+	text-align: center;
+}
+
+.cat_img:hover{
+	border:  1px solid orange;
+	box-shadow: 0 .5rem .5rem gray;
+}
+
+.line {
+  width: 12%;
+  height: 2px;
+  background: orange;
+}
+
+
+.col-md-4 img{
+	padding: 20px;
+	margin-top: 80px;
+	box-shadow: .1rem .3rem .3rem gray;
+	border-radius: 10px;
+}
+
+.flex-column img{
+	box-shadow: .1rem .3rem .3rem gray;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 10px;
+
+}
+.review-section img{
+	height: 100%;
+	width: 50%;
+}
+
+.footer p{
+	color: white;
+	margin-left: 30px;
+}
+
+.footer{
+	background: #666;
+	padding: 20px;
+	margin-top: 30px;
+
+}
+
+.footer a{
+	color: white;
+}
+
+
+
+.footer a:hover{
+	color: orange;
+}
+
